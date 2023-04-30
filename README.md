@@ -1,6 +1,6 @@
 # DroidCam Linux Installer
 
-This script is an easy-to-use installer for DroidCam on Linux systems, specifically Ubunutu based. It installs the latest version of the DroidCam client, v4l2loopback-dc, and enables the user to select various configuration options.  I just copied the install instructions from https://www.dev47apps.com/droidcam/linux/ and made a script.  When updating your system, it is possible that you will need to reinstall droidcam in order to get it to fuction properly again, which is what makes this script pretty handy.
+This script is an easy-to-use installer for DroidCam on Linux systems, specifically Ubuntu based. It installs the latest version of the DroidCam client, v4l2loopback-dc, and enables the user to select various configuration options.  I just copied the install instructions from https://www.dev47apps.com/droidcam/linux/ and made a script.  When updating your system, it is possible that you will need to reinstall droidcam in order to get it to fuction properly again, which is what makes this script pretty handy.
 
 ## Dependencies
 
