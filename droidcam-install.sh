@@ -39,7 +39,7 @@ if [ "$use_usb" == "y" ]; then
     if [ -x "$(command -v apt-get)" ]; then
       sudo apt-get install adb -y
     elif [ -x "$(command -v yum)" ]; then
-      sudo apt install android-tools -y
+      sudo yum install android-tools -y
     else
       echo "Error: Package manager not found. Please install adb manually."
     fi
